@@ -10,7 +10,7 @@ The analysis highlights **pricing trends, pack-size distribution, and manufactur
 ---
 
 ## 📂 Dataset  
-- **Source**: Public dataset of Indian medicines (structured CSV)  
+- **Source**: [Public dataset of Indian medicines (structured CSV)](https://www.kaggle.com/datasets/shudhanshusingh/az-medicine-dataset-of-india)  
 - **Size**: ~250,000+ rows  
 - **Key Columns**:  
   - `manufacturer_name` – Manufacturer  
