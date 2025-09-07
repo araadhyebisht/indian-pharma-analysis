@@ -2,11 +2,7 @@
 
 ## 📌 Overview  
 This project performs an **Exploratory Data Analysis (EDA)** of Indian pharmaceutical product data.  
-The analysis highlights **pricing trends, pack-size distribution, and manufacturer dominance** to provide insights useful for:  
-- Product Managers  
-- Pharma Analysts  
-- Data Scientists  
-
+The analysis highlights **pricing trends, pack-size distribution, and manufacturer dominance** to provide insights
 ---
 
 ## 📂 Dataset  
@@ -46,10 +42,3 @@ The analysis highlights **pricing trends, pack-size distribution, and manufactur
 - Affordable generics are concentrated among a small group of companies.  
 
 ---
-
-## ⚙️ How to Run  
-```bash
-git clone https://github.com/araadhyebisht/pharma-data-analysis.git
-cd pharma-data-analysis
-pip install -r requirements.txt
-jupyter notebook "project analysis cv.ipynb"
